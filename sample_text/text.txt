@@ -1,0 +1,2 @@
+AppComposerは複数のモジュールを標準入出力で接続し、新しい一つのモジュールを生成します。
+サンプルとして、ファイル読み込みモジュール（reader）、分かち書きモジュール（morphAnalyzer）、bag-of-wordsモジュール（analyzer）、文字列表示モジュール（helloworld）の4つが有ります。これらを接続してみましょう。
